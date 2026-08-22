@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "七夕节安琪拉陪你玩好不好呀～",
+    "author": "膴膊萚",
+    "time": "2026年08月23日01时05分54秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "福特号，林肯号好歹打了大半年才开始闹，这尼玛华盛顿号刚出港就开始闹？真贼配军……",
+  "description": "罗马诺：皇马接近签下19岁中场塞尔吉奥-马丁内斯",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.mrufh.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+    "description": "内容页的详细描述，可包含www.blog.mrufh.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "摂炇郙"
+    },
+    "datePublished": "2026年08月23日01时05分54秒",
+    "dateModified": "2026年08月23日01时05分54秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "多地官宣今年秋假时间",
+      "url": "http://www.blog.mrufh.cn/Article/details/587397.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "笔试前13名全淘汰 倒数5名全逆袭",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/385828.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/955164.sHtML"
+    },
+{
+      "platform": "净利最高暴增 977%，老牌教培释放回暖信号",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/000489.sHtML"
+    },
+{
+      "platform": "金山云 2026 财年第二财季归母亏损 9307.8 万元，同比亏损收窄 79.65%",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/978169.sHtML"
+    },
+{
+      "platform": "中国气象局：8月西南地区东部等地发生区域性极端高温事件概率较大",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/616634.sHtML"
+    },
+{
+      "platform": "日本防卫省计划大规模扩编，新设「防卫基盘局」等 3 个部门，日媒评价「非常罕见」，此举有哪些意图？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/230476.sHtML"
+    },
+{
+      "platform": "刚访华不久，美国会机构就嚷嚷：中国占尽优势，咱也得搞",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/559010.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌致5死17伤，伤者家属：孩子一只脚已截肢，还在ICU",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/012311.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/554452.sHtML"
+    },
+    {
+      "platform": "实用汉字转拼音4.8 UI优化版",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/476262.sHtML"
+    },
+{
+      "platform": "手绘琅勃拉邦 | 来日方长，在美丽旧世界“浪费”时光",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/060351.sHtML"
+    },
+{
+      "platform": "22-0惨败创50年耻辱 水手2亿巨星低级失误遭怒批：该坐一周冷板凳",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/092250.sHtML"
+    },
+{
+      "platform": "是时候跟上蔡徐坤的old school了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/006819.sHtML"
+    },
+{
+      "platform": "前7月内地访日游客同比降56.3%",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/669069.sHtML"
+    },
+{
+      "platform": "AI 编程进入监督时代：从补全代码到管理执行系统",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/973711.sHtML"
+    },
+{
+      "platform": "为什么同一段代码在 Safari 上永远有 Bug？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/391286.sHtML"
+    },
+{
+      "platform": "邀请网红参加奢华品牌活动，OpenAI营销引争议",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/242672.sHtML"
+    },
+{
+      "platform": "天山打洞只因那头有人民",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/040380.sHtML"
+    },
+{
+      "platform": "未来5年优化医保便民这么干",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/965410.sHtML"
+    },
+    {
+      "platform": "【七夕快乐】「跟你住」，“想搬进你心里，其它烦心的都不考虑”（cover：孙盛希）",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/919840.sHtML"
+    },
+{
+      "platform": "一年半以前救助的小可爱",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/533623.sHtML"
+    },
+{
+      "platform": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/709287.sHtML"
+    },
+{
+      "platform": "何炅因年龄大被密室拒绝",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/470775.sHtML"
+    },
+{
+      "platform": "王者新英雄王维上线体验服",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/736478.sHtML"
+    },
+{
+      "platform": "36岁老酒鬼喝早酒的快乐",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/720106.sHtML"
+    },
+{
+      "platform": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/607131.sHtML"
+    },
+{
+      "platform": "反制美国！中方公布5项措施",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/517703.sHtML"
+    },
+{
+      "platform": "继冰箱、烤面包机后，微软 Xbox 将与宜家推出联名家具",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/521114.sHtML"
+    },
+{
+      "platform": "大喜的日子小红娘来给你牵红线啦~",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/133428.sHtML"
+    },
+    {
+      "platform": "正当防卫！昆山龙哥后又一正道的光",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/023273.sHtML"
+    },
+{
+      "platform": "DeepSeek据称重启第二轮融资 投前估值5000亿元",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/506000.sHtML"
+    },
+{
+      "platform": "美股盘前要点 | 美联储7月会议纪要凌晨公布，SK海力士官宣40万亿韩元回购计划",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/218786.sHtML"
+    },
+{
+      "platform": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/336489.sHtML"
+    },
+{
+      "platform": "杭州梭子蟹价格持续回落",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/563875.sHtML"
+    },
+{
+      "platform": "Seedance 2.5来了，但行业真的准备好了吗？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/571763.sHtML"
+    },
+{
+      "platform": "公积金新政来了，有哪些利好？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/705816.sHtML"
+    },
+{
+      "platform": "北约多国在俄打击范围内",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/456754.sHtML"
+    },
+{
+      "platform": "为什么很多旅游城市并不富裕？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/256476.sHtML"
+    },
+{
+      "platform": "盈大地產：2026年上半年收入5.93亿港元，股东应占亏损1.89亿港元",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/850448.sHtML"
+    },
+    {
+      "platform": "比亚迪助力香港足球文化节 与足球少年一起见证曼城国米巅峰对决",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/647998.sHtML"
+    },
+{
+      "platform": "闪充丝路，智行万里——比亚迪护航海上新丝路",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/162410.sHtML"
+    },
+{
+      "platform": "独自拥有的那些瞬间",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/338153.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌事故亲历者：左边右边都遇难 来不及喊",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/944094.sHtML"
+    },
+{
+      "platform": "东北第一城等到重开一局",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/917818.sHtML"
+    },
+{
+      "platform": "列车上被陌生男子用手戳胸",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/346799.sHtML"
+    },
+{
+      "platform": "《重器》打酱油的她不简单，体操世家出身多次上春晚，撞脸王玉雯",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/691218.sHtML"
+    },
+{
+      "platform": "王者新英雄王维玩法爆料",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/878236.sHtML"
+    },
+{
+      "platform": "老妈身上的伤口就像“活火山口”，一汪血水混合着脓水",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/097519.sHtML"
+    },
+{
+      "platform": "邵永灵谈西方媒体酸中国机器狗的成功",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/374598.sHtML"
+    },
+    {
+      "platform": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休、休满休足，对纸面休假、弄虚作假的机关事业单位约谈通报、限期整改",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/986499.sHtML"
+    },
+{
+      "platform": "公共泳池内男子在儿童区搓脚",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/291755.sHtML"
+    },
+{
+      "platform": "卡位BBA、突围新势力，魏牌V8X以“极致”定义大五座旗舰SUV价值标杆",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/650643.sHtML"
+    },
+{
+      "platform": "你能接受视频“暂停广告”吗？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/131411.sHtML"
+    },
+{
+      "platform": "外交部提醒公民谨慎赴帕劳旅游",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/691905.sHtML"
+    },
+{
+      "platform": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/748566.sHtML"
+    },
+{
+      "platform": "智驾“小蓝灯”不合国标将被禁用，网友：它就是马路闪光弹和软柿子！",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/896260.sHtML"
+    },
+{
+      "platform": "哔哩哔哩等其他视频简易下载器",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/996827.sHtML"
+    },
+{
+      "platform": "日本大使被叫去挨骂",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/733803.sHtML"
+    },
+{
+      "platform": "石家庄居民楼坍塌致3死",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/536305.sHtML"
+    },
+    {
+      "platform": "httpspider工具箱,支持视频下载、滚动长截图、抓包分析、直播下载、图片下载",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/724615.sHtML"
+    },
+{
+      "platform": "台军试射火箭偏轨自毁",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/129003.sHtML"
+    },
+{
+      "platform": "和你「私奔」的话，我只带一支海棠。【原创曲】",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/919857.sHtML"
+    },
+{
+      "platform": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/629697.sHtML"
+    },
+{
+      "platform": "老人举起手机想拍美丽的鱼灯，却遭连环广告疯狂弹窗！",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/926459.sHtML"
+    },
+{
+      "platform": "A股全市场逾百股跌停",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/719807.sHtML"
+    },
+{
+      "platform": "北京时间今天14时35分，SpaceX火箭残骸将撞击月球，预计将形成有史以来最大规模的人造陨石坑",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/028907.sHtML"
+    },
+{
+      "platform": "美的系“悍将不悍”？殷必彤是哪类高管？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/294262.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 开源，下一代 Agent 基础设施长什么样？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/728119.sHtML"
+    },
+{
+      "platform": "造谣青岛大学旭日旗者被拘",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/581060.sHtML"
+    },
+    {
+      "platform": "GPT新模型在OpenAI内网自建留言板！三个月聊了几十万条，一直没人发现",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/511171.sHtML"
+    },
+{
+      "platform": "多省份调整最低工资标准，不少人工资却不升反降，网友：国有国法，厂有厂规",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/302257.sHtML"
+    },
+{
+      "platform": "韩国特检组追加起诉金建希涉官邸搬迁违规；李在明称任内完成战时指挥权移交",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/957273.sHtML"
+    },
+{
+      "platform": "日拟研发潜射高超音速导弹",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/051264.sHtML"
+    },
+{
+      "platform": "为何冒死游向欧洲？一场结构困境、虚假信息和地缘博弈交织的边境危机",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/493172.sHtML"
+    },
+{
+      "platform": "为什么多数猫都不怕蛇，毒蛇也不怕么?",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/238250.sHtML"
+    },
+{
+      "platform": "胖东来招聘排除性侵人员",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/389349.sHtML"
+    },
+{
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/188144.sHtML"
+    },
+{
+      "platform": "西安东站卫生间唐风指示牌悄然走红，网友：又美又有文化内涵",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/344011.sHtML"
+    },
+{
+      "platform": "广汽埃安焕新LOGO首车Ray7亮相，搭载华为DriveONE电机",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/967785.sHtML"
+    },
+    {
+      "platform": "妈妈忙到深夜 6岁娃爬上货垛睡着",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/754868.sHtML"
+    },
+{
+      "platform": "影史经典《肖申克的救赎 》4K 修复版预售，8 月 28 日首登中国内地大银幕",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/785265.sHtML"
+    },
+{
+      "platform": "粉笔炒股巨额亏损超5638万元，与前CEO张小龙“拿8000万元现金炒股单月赚5300万元”炒股炫富言论形成鲜明反差",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/035131.sHtML"
+    },
+{
+      "platform": "去年还在打麻将的机器人，今年想上班了？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/899215.sHtML"
+    },
+{
+      "platform": "沙特阿美突然“放量”：欧洲9月原油足额供应，恢复霍尔木兹海峡内装船",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/594230.sHtML"
+    },
+{
+      "platform": "外国佬来了也得盖肚脐眼??",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/293826.sHtML"
+    },
+{
+      "platform": "华东首个，京东物流长三角至京津冀电商多式联运快速班列成功开行",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/208019.sHtML"
+    },
+{
+      "platform": "人形机器人举重怎么判",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/345435.sHtML"
+    },
+{
+      "platform": "矿工九级伤残遭拒赔",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/164503.sHtML"
+    },
+{
+      "platform": "企退月均3640，事退8136：差距不该让老人用余生来等",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/228676.sHtML"
+    },
+    {
+      "platform": "河南暴雨农户蹚没腰积水抢收花生",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/498494.sHtML"
+    },
+{
+      "platform": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/031830.sHtML"
+    },
+{
+      "platform": "RAG检索优化实战：从67%到92%，我做了这4步",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/167171.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 出来了，干硬件的我琢磨了一下它到底能干啥",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/045317.sHtML"
+    },
+{
+      "platform": "“天王的发布会”！奕境X9预售诚意拉满29.98万元起天王“不可思议”",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/642795.sHtML"
+    },
+{
+      "platform": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/263390.sHtML"
+    },
+{
+      "platform": "旅游失败：暑期旺季“打卡式旅游”，真的还不如在家看纪录片",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/134518.sHtML"
+    },
+{
+      "platform": "翻翻乐"翻车"实录：一个看似简单的卡片游戏，我踩了五个坑",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/924972.sHtML"
+    },
+{
+      "platform": "未来10天将生成两个台风",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/080480.sHtML"
+    },
+{
+      "platform": "崴了脚拄上拐杖之后感受到了全世界都在向我释放出善意",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/213281.sHtML"
+    },
+    {
+      "platform": "21家百亿私募，现身31股前十大",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/281272.sHtML"
+    },
+{
+      "platform": "媒体：请放过一个努力的蓝发女孩",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/005166.sHtML"
+    },
+{
+      "platform": "大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/242720.sHtML"
+    },
+{
+      "platform": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/604308.sHtML"
+    },
+{
+      "platform": "央视七夕晚会节目单",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/967597.sHtML"
+    },
+{
+      "platform": "小说下载器 - 你的网文自由神器！",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/227778.sHtML"
+    },
+{
+      "platform": "PVZ恐怖版新潜伏者僵尸",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/991826.sHtML"
+    },
+{
+      "platform": "甲状腺不好常吃两种水果",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/851260.sHtML"
+    },
+{
+      "platform": "公积金新政来了 有哪些利好",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/314569.sHtML"
+    },
+{
+      "platform": "丁程鑫曾长期营养不良",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/142239.sHtML"
+    },
+    {
+      "platform": "大西洋上的星河璀璨",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/334585.sHtML"
+    },
+{
+      "platform": "这是我喜欢的【今天有什么好笑的 #2480】",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/777462.sHtML"
+    },
+{
+      "platform": "名侦探柯南大结局已经画好了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/071029.sHtML"
+    },
+{
+      "platform": "湮灭之潮惊艳试玩！玩家则在争论其他事情【绅批】",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/522364.sHtML"
+    },
+{
+      "platform": "石家庄居民楼发生部分坍塌 造成3人死亡",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/237833.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/695001.sHtML"
+    },
+{
+      "platform": "伦敦一回收中心发生大火",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/910853.sHtML"
+    },
+{
+      "platform": "雨季的大理，没有风花雪月，却依旧惊艳了时光",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/946186.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴快手号找到了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/222920.sHtML"
+    },
+{
+      "platform": "韩国史上最恐怖连环杀人案《追击者》这样的地方恶魔只会越来越多",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/384394.sHtML"
+    },
+    {
+      "platform": "为什么你现在不发朋友圈了？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/934203.sHtML"
+    },
+{
+      "platform": "仿生机器人“以假乱真”",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/945749.sHtML"
+    },
+{
+      "platform": "赵勇能把中国女排带多远（三）",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/534664.sHtML"
+    },
+{
+      "platform": "有报道称中联部已邀请日本国会议员下周访华 中方回应",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/630847.sHtML"
+    },
+{
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/401488.sHtML"
+    },
+{
+      "platform": "石家庄一居民楼部分坍塌致3死",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/530554.sHtML"
+    },
+{
+      "platform": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/311681.sHtML"
+    },
+{
+      "platform": "微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/600416.sHtML"
+    },
+{
+      "platform": "快手：累计处置违规动画内容3万余条",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/194203.sHtML"
+    },
+{
+      "platform": "办公工具箱合集打包一体了，看看市场需求量大不大",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/135816.sHtML"
+    },
+    {
+      "platform": "第七届中非媒体合作论坛明日开幕",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/293485.sHtML"
+    },
+{
+      "platform": "朱镕基同志遗体在北京八宝山革命公墓火化，天安门广场等地下半旗志哀",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/424315.sHtML"
+    },
+{
+      "platform": "美国制裁赤根智子 日本网民炸锅",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/069351.sHtML"
+    },
+{
+      "platform": "全家偷听我心声杀疯了,我负责吃奶",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/964114.sHtML"
+    },
+{
+      "platform": "山姆苹果干一包就是半个苹果",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/316246.sHtML"
+    },
+{
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/859915.sHtML"
+    },
+{
+      "platform": "升学宴女儿墙垮塌村民发声",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/377279.sHtML"
+    },
+{
+      "platform": "CBA l 浙江广厦多名球员离队，球队进入新发展周期",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/697694.sHtML"
+    },
+{
+      "platform": "像一阵细雨洒落我心底",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/977325.sHtML"
+    },
+{
+      "platform": "白衣男子疯狂挥拳挑衅，却被黑衣男子单手按倒击打",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/356055.sHtML"
+    },
+    {
+      "platform": "独臂少年刘宸瑞，考入清华",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/113829.sHtML"
+    },
+{
+      "platform": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/220460.sHtML"
+    },
+{
+      "platform": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/126913.sHtML"
+    },
+{
+      "platform": "把发布会搬进年轻人的生活里！全球精品轿车零跑A05正式上市！",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/531485.sHtML"
+    },
+{
+      "platform": "1662年、近代概率论的奠基者帕斯卡逝世",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/435054.sHtML"
+    },
+{
+      "platform": "仅剩8个月，AI大脑迎来彻底大换血",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/520184.sHtML"
+    },
+{
+      "platform": "Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/457594.sHtML"
+    },
+{
+      "platform": "赛力斯 2026 年半年度归母亏损 17.17 亿元，同比下降 158.38%",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/830166.sHtML"
+    },
+{
+      "platform": "男子拒还5000元借款杀害朋友埋尸自家院中，担心败露两年后又杀姑父灭口，被索赔580万一审判死刑",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/342105.sHtML"
+    },
+{
+      "platform": "每体：加维拒绝了加盟曼联的可能，他决定留在巴萨",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/222201.sHtML"
+    },
+    {
+      "platform": "美股三大指数集体高开 Moderna涨超83%",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/711374.sHtML"
+    },
+{
+      "platform": "总台七夕晚会节目单",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/833742.sHtML"
+    },
+{
+      "platform": "新一代智能手表颜智实力派，华为WATCH GT 7系列正式发布",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/736185.sHtML"
+    },
+{
+      "platform": "秦志高妻子大闹别人家婚礼",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/320943.sHtML"
+    },
+{
+      "platform": "沙特，印度人的严父！像管理牲口一样管理印度人~",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/028525.sHtML"
+    },
+{
+      "platform": "美国男子向AI透露奸杀计划被平台报警",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/675905.sHtML"
+    },
+{
+      "platform": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/023509.sHtML"
+    },
+{
+      "platform": "辣眼睛！三伏天公园又现“赤裸晒背”，有人说这是“个人自由”，有人觉得“不雅观”，医生提醒：这类人群坚决不能晒",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/017823.sHtML"
+    },
+{
+      "platform": "2人涉嫌敲诈蜜雪冰城被刑拘",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/515546.sHtML"
+    },
+{
+      "platform": "没想到狗血剧情发生我身上",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/718481.sHtML"
+    },
+    {
+      "platform": "我让 AI Agent 先别改代码，它怎么还是动手了？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/613398.sHtML"
+    },
+{
+      "platform": "时隔21年，上海地铁将调价",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/807116.sHtML"
+    },
+{
+      "platform": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/742619.sHtML"
+    },
+{
+      "platform": "南斯拉夫被肢解的太惨了吧？这是切块再剁碎啊",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/703648.sHtML"
+    },
+{
+      "platform": "女排时隔11年冲击亚洲冠军",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/597431.sHtML"
+    },
+{
+      "platform": "俄乌互换103名被俘人员",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/717885.sHtML"
+    },
+{
+      "platform": "“价格屠夫”梁文锋“收刀”",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/400911.sHtML"
+    },
+{
+      "platform": "第18号台风沙德尔生成",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/559326.sHtML"
+    },
+{
+      "platform": "二次元的七夕大作战",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/807542.sHtML"
+    },
+{
+      "platform": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/178268.sHtML"
+    },
+    {
+      "platform": "年亏17亿的“中国版SpaceX”，终于把火箭收回来了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/383870.sHtML"
+    },
+{
+      "platform": "同台错位，王兴兴与马斯克殊途不同归",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/711843.sHtML"
+    },
+{
+      "platform": "水果型蔬菜身价翻倍",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/538042.sHtML"
+    },
+{
+      "platform": "买票占座放零食这座位能让吗",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/628439.sHtML"
+    },
+{
+      "platform": "龙餐馆演员讲述亲历的伊拉克战争",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/547223.sHtML"
+    },
+{
+      "platform": "苹果向欧盟监管让步",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/209209.sHtML"
+    },
+{
+      "platform": "总经理接供应商私活赚1036万",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/267634.sHtML"
+    },
+{
+      "platform": "南京设立“骑士友好中转站”",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/403090.sHtML"
+    },
+{
+      "platform": "绿色版图片转ICO/PNG图标小工具（软件更新）",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/606398.sHtML"
+    },
+{
+      "platform": "为什么会有人认为苏联是邪恶的？苏联帮助我们156项工业基础",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/553031.sHtML"
+    },
+    {
+      "platform": "42岁男子玩漂流致四肢瘫痪",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/969267.sHtML"
+    },
+{
+      "platform": "光迅科技 2026 年半年度归母净利润 5.82 亿元，同比增长 56.34%",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/815594.sHtML"
+    },
+{
+      "platform": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/284350.sHtML"
+    },
+{
+      "platform": "程莉莎沉浸在郭晓东舞台里无法自拔",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/717852.sHtML"
+    },
+{
+      "platform": "1981年韩先楚回乡探亲，与乡亲们交谈后，拿起电话：传我的命令",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/194751.sHtML"
+    },
+{
+      "platform": "情侣分手后因宠物狗打官司",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/373004.sHtML"
+    },
+{
+      "platform": "朱雀三号回收成功，如何看待蓝箭和 SpaceX 陆基回收路线的竞争？",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/690268.sHtML"
+    },
+{
+      "platform": "美媒评新赛季30队强弱变化！76人升级明显，火箭湖人勇士均被看衰",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/745107.sHtML"
+    },
+{
+      "platform": "王者里可以打斗地主了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/650192.sHtML"
+    },
+{
+      "platform": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/628757.sHtML"
+    },
+    {
+      "platform": "中签长鑫宇树男子回应打新技巧",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/756708.sHtML"
+    },
+{
+      "platform": "贵州一村庄升学宴“瘦身”",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/350018.sHtML"
+    },
+{
+      "platform": "SEC公布加密货币监管方案",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/019702.sHtML"
+    },
+{
+      "platform": "女排国手李盈莹因心脏问题接受手术，确定无缘亚锦赛与亚运会，本人发文：心中满是遗憾，期待痊愈之后，再次踏上熟悉的赛场",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/827485.sHtML"
+    },
+{
+      "platform": "AI Agent 都在疯狂加功能，它说：我全砍了",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/003989.sHtML"
+    },
+{
+      "platform": "杭州男子下班路上“多看一眼”，感觉事情必有蹊跷……3人落网",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/183332.sHtML"
+    },
+{
+      "platform": "《庆余年》演员在山西一景区当NPC，身高2.16米，“我需要稳定收入养家，如今AI短剧普及，很多演员长期无戏可拍……”",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/573691.sHtML"
+    },
+{
+      "platform": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/613836.sHtML"
+    },
+{
+      "platform": "烽火职业联赛夏季赛",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/753487.sHtML"
+    },
+{
+      "platform": "从聊天应答到业务闭环：AI Agent 落地的实战指南与出海新机遇",
+      "share_url": "http://www.blog.mrufh.cn/Article/details/006520.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日01时05分54秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
